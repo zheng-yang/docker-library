@@ -1,2 +1,2 @@
 FROM gcr.io/google_containers/kube-dnsmasq-amd64:1.4
-MAINTAINER mritd <mritd@mritd.me>
+LABEL maintainer "farawayzheng(http://blog.csdn.net/farawayzheng_necas)"
